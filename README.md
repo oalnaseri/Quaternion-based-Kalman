@@ -17,7 +17,7 @@
 Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation
 
 ```
-@ARTICLE{alnaseri2026fadin,
+@ARTICLE{alnaseri2026fading,
   author={Alnaseri, Omar and Himeur, Yassine and Titouni, Salem and Timmermann, Jens and Atalla, Shadi},
   journal={IEEE Access}, 
   title={Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation}, 
