@@ -14,7 +14,7 @@
 
 ## If you use this code, please cite the following paper
 
-Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation
+Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation <https://doi.org/10.1109/ACCESS.2026.3675938>
 
 ```
 @ARTICLE{alnaseri2026fading,
@@ -26,4 +26,3 @@ Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensatio
   number={},
   pages={1-1},
   doi={10.1109/ACCESS.2026.3675938}}
-
