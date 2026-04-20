@@ -22,7 +22,7 @@ Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensatio
   journal={IEEE Access}, 
   title={Fading-Memory Quaternion-Based Kalman Filter for Quantum Channel PMD Compensation}, 
   year={2026},
-  volume={},
+  volume={14},
   number={},
-  pages={1-1},
+  pages={46943-46952},
   doi={10.1109/ACCESS.2026.3675938}}
